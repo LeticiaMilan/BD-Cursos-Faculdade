@@ -9,13 +9,14 @@ A seguir estão as instruções para a atividade:
     <br/>
     • Ciência da Computação <br/>
     • ADS <br/>
+    
 2. Cadastrar os alunos:
     <br/>
     ra, nome, data_nascimento, curso, telefone <br/>
     '123456', 'João Silva', '1990-01-01', 'Ciência da Computação', '(11) 9999-8888' <br/>
     '234567', 'Maria Oliveira', '1995-05-15', 'ADS', '(21) 7777-6666' <br/>
 
-3. Fazer as buscar:
+3. Fazer as buscas:
     <br/>
     a) exibir todos os cursos; <br/>
     b) exibir todos os alunos; <br/>
